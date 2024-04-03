@@ -1,3 +1,5 @@
+/adding this comment to tq.q file so that there will be mutiple commits to mutilple files 
+
 /2022.01.06 changing quote::Bid_Price from real to float
 /2020.06.12 support taq 3.3, add field to MASTER, no change needed
 /2020.04.15 support taq 3.2, add field to MASTER, no change needed
